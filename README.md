@@ -1,16 +1,16 @@
-## Hi there 👋
+### I am Rahul Ghosh
 
-<!--
-**Rahul4h/Rahul4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Competitive Programmer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I am currently pursuing my full-time B.Sc in Computer Science and Engineering at PatuaKhali Science and Technology University . Currently engaged in competitive programming and learning some dev stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Total Problems Solved: 800+
+
+| <Platform 1> | <Platform 2> | <Platform 3> | Others |
+| Codeforces | CSES | AtCoder | 
+| 680 | 16| 4 | 
+
+---
+
