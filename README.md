@@ -8,7 +8,7 @@ I am currently pursuing my full-time B.Sc in Computer Science and Engineering at
 
 ### Total Problems Solved: 800+
 
-| <Platform 1> | <Platform 2> | <Platform 3> | Others |
+
 | Codeforces | CSES | AtCoder | 
 | 680 | 16| 4 | 
 
