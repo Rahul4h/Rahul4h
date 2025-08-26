@@ -25,7 +25,7 @@
 
 ## CP Profiles
 <p float="left">
-<a href="https://codeforces.com/profile/The_crawler">
+<a href="https://codeforces.com/profile/rahul_ghosh">
 <img height="205em" src="https://codeforces-readme-stats.vercel.app/api/card?username=rahul_ghosh&force_username=true" /> 
 </a>
 </p>
