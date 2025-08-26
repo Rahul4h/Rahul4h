@@ -4,9 +4,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=rahul_ghosh" alt="Codeforces Rating" />
   </a>
   
-  <a href="https://www.codechef.com/users/the_crawler">
-    <img src="https://cp-logo.vercel.app/codechef/the_crawler" alt="Codechef Rating" />
-  </a>
+ 
   
  
   
