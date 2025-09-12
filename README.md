@@ -3,6 +3,9 @@
   <a href="https://codeforces.com/profile/rahul_ghosh">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=rahul_ghosh" alt="Codeforces Rating" />
   </a>
+   <a href="https://www.codechef.com/users/rahul_ghosh">
+    <img src="https://code-readme-stats.vercel.app/api/badge?username=rahul_ghosh" alt="CodeChef Rating" />
+  </a>
   
  
   
