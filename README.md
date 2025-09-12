@@ -6,13 +6,15 @@
 I am pursuing my full-time B.Sc in Computer Science and Engineering at Patuakhali Science and Technology University 🏫.  
 Currently engaged in competitive programming 💻 and learning some Dev stuff 🚀.
 
-## Total Problems Solved: 700+
+## Total Problems Solved: 750+
 
 | **Platform** | **Solved** |
 |-------------|------------|
-| Codeforces  | 681        |
-| CSES        | 15         |
+| Codeforces  | 700        |
+| CSES        | 16         |
 | AtCoder     | 4          |
+| CodeChef    | 20         |
+| LeetCode    | 15         |
 
 ## Competitive Programming Achievements
 
