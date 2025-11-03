@@ -10,11 +10,11 @@ Currently engaged in competitive programming ðŸ’» and learning some Dev stuff ðŸ
 
 | **Platform** | **Solved** |
 |-------------|------------|
-| Codeforces  | 700        |
+| Codeforces  | 730        |
 | CSES        | 16         |
 | AtCoder     | 4          |
 | CodeChef    | 20         |
-| LeetCode    | 15         |
+| LeetCode    | 35        |
 
 ## Competitive Programming Achievements
 
