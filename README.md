@@ -6,7 +6,7 @@
 I am pursuing my full-time B.Sc in Computer Science and Engineering at Patuakhali Science and Technology University 🏫.  
 Currently engaged in competitive programming 💻 and learning some Dev stuff 🚀.
 
-## Total Problems Solved: 750+
+## Total Problems Solved: 800+
 
 | **Platform** | **Solved** |
 |-------------|------------|
